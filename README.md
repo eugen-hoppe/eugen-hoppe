@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eugen-hoppe
-- 👀 I’m interested in API/Backend Development, IoT, Data Science
-- 🌱 I’m currently learning cloud infrastructure & full stack stack
+- 👀 I’m interested in backend development and IoT
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me: 403
 

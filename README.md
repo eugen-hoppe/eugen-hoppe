@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @eugen-hoppe
+- 👋 Hi, I’m @eugen-hoppe, Software Developer and Data Scientist
 - 👀 I’m interested in backend development and IoT
-- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me: https://www.ehoppe.com/About/
 
